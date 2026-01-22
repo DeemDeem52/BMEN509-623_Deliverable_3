@@ -1,0 +1,9 @@
+scenario_id,name,description,layers,layer_thicknesses_cm,target_depth_cm,frequency_MHz,clinical_question
+1,Abdominal liver imaging,Standard transabdominal approach to image liver parenchyma,"skin,fat,muscle,liver","0.2,2.0,1.5,5.0",8.7,3.5,Evaluate liver echogenicity for fatty liver disease
+2,Thyroid examination,High-frequency imaging of superficial thyroid gland,"skin,muscle,thyroid","0.15,0.5,2.0",2.65,10.0,Characterize thyroid nodule for malignancy risk
+3,Obstetric fetal imaging,Second trimester fetal anatomy scan,"skin,fat,muscle,amniotic_fluid","0.2,3.0,1.0,8.0",12.2,5.0,Assess fetal anatomy and growth parameters
+4,Renal transplant assessment,Imaging of transplanted kidney in iliac fossa,"skin,fat,kidney","0.2,1.5,5.0",6.7,4.0,Evaluate transplant perfusion and parenchyma
+5,Breast mass characterization,High-frequency imaging of palpable breast mass,"skin,breast_fat,breast_gland","0.2,1.0,2.0",3.2,12.0,Differentiate cystic from solid mass
+6,Deep venous assessment,Compression ultrasound for deep vein thrombosis,"skin,fat,muscle,blood","0.2,1.0,2.5,0.5",4.2,7.5,Detect presence of DVT in femoral vein
+7,Gallbladder examination,Right upper quadrant imaging for cholelithiasis,"skin,fat,liver","0.2,2.5,4.0",6.7,4.0,Identify gallstones and wall thickening
+8,Carotid artery imaging,Evaluation of carotid artery for stenosis,"skin,muscle,blood","0.2,1.5,0.8",2.5,9.0,Measure intima-media thickness and stenosis degree
