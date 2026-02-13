@@ -1,6 +1,6 @@
 # BMEN 509/623 — Deliverable 3: Ultrasound Imaging
 
-## 📅 Due Date: March 23, 2026
+## 📅 Due Date: March 16, 2026
 
 ## Overview
 
